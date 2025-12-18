@@ -1,9 +1,9 @@
 # 📝 Blog RESTful API
 <p align="center">
-    ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-    ![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask)
-    ![SQLite](https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite)
-    ![SQLModel](https://img.shields.io/badge/SQLModel-ORM-green?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask">
+  <img src="https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite">
+  <img src="https://img.shields.io/badge/SQLModel-ORM-green?style=for-the-badge">
 </p>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHppOGZ0Y2dqb2k5bW5pZ2RuMG82MzQ3bXVuZ3duOWF1aDF3bnU5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2GtNxNdOfprXhUJGR/giphy.gif" alt="gif"/>
