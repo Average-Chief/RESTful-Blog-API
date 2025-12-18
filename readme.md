@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/SQLModel-ORM-green?style=for-the-badge">
 </p>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHppOGZ0Y2dqb2k5bW5pZ2RuMG82MzQ3bXVuZ3duOWF1aDF3bnU5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2GtNxNdOfprXhUJGR/giphy.gif" alt="gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHppOGZ0Y2dqb2k5bW5pZ2RuMG82MzQ3bXVuZ3duOWF1aDF3bnU5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2GtNxNdOfprXhUJGR/giphy.gif" alt="gif" height="505" width="300"/>
 </p>
 A simple **RESTful Blogging API** built using **Flask**, **SQLModel**, and **SQLite**.  
 Supports full CRUD operations, search functionality, and clean request validation.
